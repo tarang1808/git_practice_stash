@@ -1,2 +1,8 @@
 hi
+<<<<<<< Updated upstream
 hicommit
+=======
+hi2
+
+>>>>>>> Stashed changes
+hiiiii
